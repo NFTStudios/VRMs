@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/NFTStudios/VRMS/main/
+https://raw.githubusercontent.com/NFTStudios/VRMs/main/
